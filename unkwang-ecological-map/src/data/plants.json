@@ -1,0 +1,27 @@
+[
+    {
+        "name": "소나무",
+        "image": "/assets/sketches/pine_tree.png",
+        "description": "소나무는 한국의 대표적인 침엽수로, 높은 산에서 자주 발견됩니다."
+    },
+    {
+        "name": "벚꽃나무",
+        "image": "/assets/sketches/cherry_blossom.png",
+        "description": "벚꽃나무는 봄에 아름다운 꽃을 피우며, 많은 사람들이 이 꽃을 보기 위해 모입니다."
+    },
+    {
+        "name": "단풍나무",
+        "image": "/assets/sketches/maple_tree.png",
+        "description": "단풍나무는 가을에 화려한 단풍을 보여주며, 아름다운 경관을 제공합니다."
+    },
+    {
+        "name": "철쭉",
+        "image": "/assets/sketches/rhododendron.png",
+        "description": "철쭉은 봄에 화려한 꽃을 피우며, 산과 들에서 자주 발견됩니다."
+    },
+    {
+        "name": "민들레",
+        "image": "/assets/sketches/dandelion.png",
+        "description": "민들레는 흔히 볼 수 있는 잡초로, 노란 꽃을 피우고 나중에 씨앗을 날립니다."
+    }
+]
